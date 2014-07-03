@@ -210,10 +210,10 @@ hist(rnorm(51, 6043834, 6823984))
 
 #### 复习 6.1 啤酒，农场和豌豆
 用来显示数值型变量频率的条形图称为：
-() A.Histogram
-() B.Pictogram
-() C.Bar Graph
-() D.Bar Chart
+* A.Histogram
+* B.Pictogram
+* C.Bar Graph
+* D.Bar Chart
 
 
 #### 本章使用的R函数
