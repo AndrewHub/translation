@@ -209,7 +209,7 @@ hist(rnorm(51, 6043834, 6823984))
 [http://www.r-tutor.com/elementary-statistics/numerical-measures/standard-deviation](http://www.r-tutor.com/elementary-statistics/numerical-measures/standard-deviation)
 
 #### 复习 6.1 啤酒，农场和豌豆
-用来显示数值型变量频率的条形图称为：
+用来展示数值型变量频率的条形图称为：
 * A.Histogram
 * B.Pictogram
 * C.Bar Graph
